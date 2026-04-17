@@ -1,0 +1,11 @@
+{
+  "name": "ONAA Prep Hub",
+  "short_name": "ONAA Hub",
+  "start_url": "./index.html#/dashboard",
+  "display": "standalone",
+  "background_color": "#04101a",
+  "theme_color": "#06131f",
+  "lang": "ro",
+  "description": "Aplicatie web pentru pregatirea elevilor la Olimpiada Nationala de Astronomie si Astrofizica.",
+  "icons": []
+}
